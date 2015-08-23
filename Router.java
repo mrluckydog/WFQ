@@ -1,6 +1,6 @@
 /*
  * @author Lijie
- * Date: 2015/6/2
+ * Date: 2015-6-2
  */
 
 import java.net.DatagramPacket;
